@@ -6,7 +6,7 @@
 
 <script>
 export default {
-    name: "titleElement"
+    name: "TitleElement"
 }
 </script>
 
